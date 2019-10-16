@@ -1,0 +1,46 @@
+{
+	"Kanjis" : [{
+			"ID" : "1",
+			"Symbol" : "火",
+			"OnYomi" : "ka",
+			"KunYomi" : "hi",
+			"ShortDescription" : "FIRE",
+			"FullDescription" : "hi - fire\n花火(hahabi) - fireworks\n\nka - fire, tuesday\n火事(kaji) - fire (as incident)\n火山(kazan) - volcano\n火曜日(kayoubi) - tuesday",
+			"IsLearnt" : false
+		}, {
+			"ID" : "2",
+			"Symbol" : "山",
+			"OnYomi" : "san",
+			"KunYomi" : "yama",
+			"ShortDescription" : "MOUNTAIN",
+			"FullDescription" : "yama - mountain\n火山(kazan) - volcano\n山小屋(yamagoya) - cabin in mountains\n\nsan - mountain\n富士山(fujisan) - Fuji Mt.",
+			"IsLearnt" : false
+		}, {
+			"ID" : "3",
+			"Symbol" : "花",
+			"OnYomi" : "ka",
+			"KunYomi" : "hana",
+			"ShortDescription" : "FLOWER",
+			"FullDescription" : "hana, ka - flower\n花見(hanami) - flower watching\n花束(hanataba) - bouquet\n花火(hahabi) - fireworks",
+			"IsLearnt" : false
+		}
+	],
+	"Words" : [{
+			"ID" : "1",
+			"Word" : "花火",
+			"Reading" : "hanabi",
+			"Meaning" : "fireworks",
+			"KanjiIDs" : ["3", "1"],
+			"IsLearnt" : false,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "2",
+			"Word" : "火山",
+			"Reading" : "kazan",
+			"Meaning" : "volcano",
+			"KanjiIDs" : ["1", "2"],
+			"IsLearnt" : false,
+			"CurrentWeight" : 10
+		}
+	]
+}

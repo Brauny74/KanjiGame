@@ -1,0 +1,233 @@
+{
+	"Kanjis" : [{
+			"ID" : "1",
+			"Symbol" : "火",
+			"OnYomi" : "ka",
+			"KunYomi" : "hi",
+			"ShortDescription" : "FIRE",
+			"FullDescription" : "hi - fire\n花火(hahabi) - fireworks\n\nka - fire, tuesday\n火事(kaji) - fire (as incident)\n火山(kazan) - volcano\n火曜日(kayoubi) - tuesday",
+			"IsLearnt" : true	
+		}, {
+			"ID" : "2",
+			"Symbol" : "山",
+			"OnYomi" : "san",
+			"KunYomi" : "yama",
+			"ShortDescription" : "MOUNTAIN",
+			"FullDescription" : "yama - mountain\n火山(kazan) - volcano\n山小屋(yamagoya) - cabin in mountains\n\nsan - mountain\n富士山(fujisan) - Fuji Mt.",
+			"IsLearnt" : true
+		}, {
+			"ID" : "3",
+			"Symbol" : "花",
+			"OnYomi" : "ka",
+			"KunYomi" : "hana",
+			"ShortDescription" : "FLOWER",
+			"FullDescription" : "hana, ka - flower\n花見(hanami) - flower watching\n花束(hanataba) - bouquet\n花火(hahabi) - fireworks",
+			"IsLearnt" : true
+		}, {
+			"ID" : "4",
+			"Symbol" : "気",
+			"OnYomi" : "ki",
+			"KunYomi" : "",
+			"ShortDescription" : "MOOD",
+			"FullDescription" : "ki - atmosphere, mood, gas\n元気(genki) - healthy\n天気(tenki) - weather",
+			"IsLearnt" : true
+		}, {
+			"ID" : "5",
+			"Symbol" : "上",
+			"OnYomi" : "jou, shou",
+			"KunYomi" : "ue, ageru",
+			"ShortDescription" : "ABOVE",
+			"FullDescription" : "ue - upper, above\n上げる(ageru) - to raise, to elevate\n上手(jouzu ) - be good at something\n上着 - coat, jacket",
+			"IsLearnt" : true
+		}, {
+			"ID" : "6",
+			"Symbol" : "着",
+			"OnYomi" : "chaku",
+			"KunYomi" : "kiru, tsukeru",
+			"ShortDescription" : "CLOTHES",
+			"FullDescription" : "着く (tsuku) - to arrive\n着る(kiru) - to wear\n上手(jouzu ) - be good at something\n上着 - coat, jacket",
+			"IsLearnt" : true
+		}, {
+			"ID" : "7",
+			"Symbol" : "映",
+			"OnYomi" : "ei",
+			"KunYomi" : "utsuru, heeru",
+			"ShortDescription" : "REFLECT",
+			"FullDescription" : "映る (utsuru) - to be reflected, to be projected\n映画(eiga) - movie",
+			"IsLearnt" : true
+		}, {
+			"ID" : "8",
+			"Symbol" : "画",
+			"OnYomi" : "ga, kaku",
+			"KunYomi" : "-",
+			"ShortDescription" : "PICTURE",
+			"FullDescription" : "画 (kaku) - kanji stroke\n映画(eiga) - movie\n動画 - animation, film",
+			"IsLearnt" : true
+		}, {
+			"ID" : "9",
+			"Symbol" : "動",
+			"OnYomi" : "dou",
+			"KunYomi" : "ugoku, ugokasu",
+			"ShortDescription" : "MOVE",
+			"FullDescription" : "動く (ugoku) - to move\n 動かす(ugokasu) - to move (something)",
+			"IsLearnt" : true
+		}, {
+			"ID" : "10",
+			"Symbol" : "海",
+			"OnYomi" : "kai",
+			"KunYomi" : "umi",
+			"ShortDescription" : "SEA",
+			"FullDescription" : "海 (umi) - sea\n 海水(kaisui) - sea water",
+			"IsLearnt" : true
+		}, {
+			"ID" : "11",
+			"Symbol" : "水",
+			"OnYomi" : "sui",
+			"KunYomi" : "mizu",
+			"ShortDescription" : "WATER",
+			"FullDescription" : "水 (mizu) - water\n海水 (kaisui) - sea water\n水曜日 (suiyoubi) - Wednesday",
+			"IsLearnt" : true
+		}, {
+			"ID" : "12",
+			"Symbol" : "仕",
+			"OnYomi" : "shi, ji",
+			"KunYomi" : "tsukaeru",
+			"ShortDescription" : "SERVE",
+			"FullDescription" : "仕える (tsukaeru) - water\n仕事 (shigoto) - work",
+			"IsLearnt" : true
+		}, {
+			"ID" : "13",
+			"Symbol" : "事",
+			"OnYomi" : "ji",
+			"KunYomi" : "koto",
+			"ShortDescription" : "THING",
+			"FullDescription" : "仕事 (shigoto) - work\n食事 (shokuji) - meal",
+			"IsLearnt" : false
+		}, {
+			"ID" : "14",
+			"Symbol" : "食",
+			"OnYomi" : "shoku",
+			"KunYomi" : "taberu",
+			"ShortDescription" : "EAT",
+			"FullDescription" : "食べる (taberu) - eat\n食事 (shokuji) - meal",
+			"IsLearnt" : false
+		}, {
+			"ID" : "15",
+			"Symbol" : "時",
+			"OnYomi" : "ji",
+			"KunYomi" : "toki",
+			"ShortDescription" : "TIME",
+			"FullDescription" : "時 (tokidoki) - sometimes\n時間 (jikan) - time\n時計 (tokei) - clock, watch",
+			"IsLearnt" : false
+		}, {
+			"ID" : "16",
+			"Symbol" : "間",
+			"OnYomi" : "kan",
+			"KunYomi" : "aida",
+			"ShortDescription" : "TIME SPAN",
+			"FullDescription" : "間 (aida) - period of time\n時間 (jikan) - time\n人間 (ningen) - human being",
+			"IsLearnt" : false
+		}
+	],
+	"Words" : [{
+			"ID" : "1",
+			"Word" : "花火",
+			"Reading" : "hanabi",
+			"Meaning" : "fireworks",
+			"KanjiIDs" : ["3", "1"],
+			"Syllables" : ["hana", "bi"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "2",
+			"Word" : "火山",
+			"Reading" : "kazan",
+			"Meaning" : "volcano",
+			"KanjiIDs" : ["1", "2"],
+			"Syllables" : ["ka", "zan"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "3",
+			"Word" : "火気",
+			"Reading" : "kaki",
+			"Meaning" : "flame",
+			"KanjiIDs" : ["1", "4"],
+			"Syllables" : ["ka", "ki"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "4",
+			"Word" : "上着",
+			"Reading" : "uwagi",
+			"Meaning" : "jacket",
+			"KanjiIDs" : ["5", "6"],
+			"Syllables" : ["uwa", "gi"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "5",
+			"Word" : "映画",
+			"Reading" : "eiga",
+			"Meaning" : "movie",
+			"KanjiIDs" : ["7", "8"],
+			"Syllables" : ["ei", "ga"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "6",
+			"Word" : "動画",
+			"Reading" : "douga",
+			"Meaning" : "animation",
+			"KanjiIDs" : ["9", "8"],
+			"Syllables" : ["dou", "ga"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "7",
+			"Word" : "海",
+			"Reading" : "umi",
+			"Meaning" : "sea",
+			"KanjiIDs" : ["10"],
+			"Syllables" : ["umi"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "8",
+			"Word" : "海水",
+			"Reading" : "kaisui",
+			"Meaning" : "sea water",
+			"KanjiIDs" : ["10", "11"],
+			"Syllables" : ["kai", "sui"],
+			"IsLearnt" : true,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "9",
+			"Word" : "仕事",
+			"Reading" : "shigoto",
+			"Meaning" : "work",
+			"KanjiIDs" : ["12", "13"],
+			"Syllables" : ["shi", "goto"],
+			"IsLearnt" : false,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "10",
+			"Word" : "食事",
+			"Reading" : "shokuji",
+			"Meaning" : "meal",
+			"KanjiIDs" : ["14", "13"],
+			"Syllables" : ["shoku", "ji"],
+			"IsLearnt" : false,
+			"CurrentWeight" : 10
+		}, {
+			"ID" : "11",
+			"Word" : "時間",
+			"Reading" : "jikan",
+			"Meaning" : "time",
+			"KanjiIDs" : ["15", "16"],
+			"Syllables" : ["ji", "kan"],
+			"IsLearnt" : false,
+			"CurrentWeight" : 10
+		}
+	]
+}
